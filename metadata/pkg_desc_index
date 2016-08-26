@@ -4,7 +4,7 @@ app-misc/tmsu 9999: TMSU: Tagging file management system
 app-misc/vit 1.1 1.2 1.3: vit, a full screen terminal interface for Taskwarrior with Vi key bindings
 dev-go/fuse 9999: Native bindings for the FUSE kernel module for Go
 dev-go/sqlite3 9999: sqlite3 driver for Go
-dev-util/cxxtest 4.0.3 4.3: CxxTest is a JUnit/CppUnit/xUnit-like unit testing framework for C++
+dev-util/cxxtest 4.0.3 4.3 4.4: CxxTest is a JUnit/CppUnit/xUnit-like unit testing framework for C++
 dev-util/gcovr 3.2: Gcovr provides a utility for managing the use of the GNU gcov utility and generating summarized code coverage results
 dev-util/gws 0.1.4 0.1.5 0.1.7 9999: workspace manager
 mail-client/mutt-kz 1.5.22.1-r1: A fork of mutt, the small but very powerful text-based mail client
