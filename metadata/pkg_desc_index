@@ -9,4 +9,5 @@ dev-util/gcovr 3.2: Gcovr provides a utility for managing the use of the GNU gco
 dev-util/gws 0.1.4 0.1.5 0.1.7 9999: workspace manager
 mail-client/mutt-kz 1.5.22.1-r1: A fork of mutt, the small but very powerful text-based mail client
 media-libs/opencv 2.4.8-r1 2.4.9-r1 2.4.11-r1: A collection of algorithms and sample code for various computer vision problems
+sci-libs/mkl 11.2.0.090: Intel(R) Math Kernel Library: linear algebra, fft, math functions
 www-plugins/vivaldi-ffmpeg-codecs 54.0.2840.100: Additional proprietary codecs for Vivaldi web browser, stable release.
