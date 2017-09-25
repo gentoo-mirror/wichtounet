@@ -52,7 +52,7 @@ src_install() {
 	echo ${last_commit} > version.txt
 
 	insinto /usr/share/${PN}
-	doins -r bs4 cherrypy data headphones html5lib lib mako Headphones.py version.txt
+	doins -r data headphones lib Headphones.py version.txt
 }
 
 pkg_postinst() {
@@ -66,8 +66,6 @@ pkg_postinst() {
 	   rm -Rf "/usr/share/${PN}/.git"
 	fi
 
-	python_mod_optimize /usr/share/${PN}
-
 	elog "Headphones has been installed with data directories in /var/${PN}"
 	elog
 	elog "New user/group ${PN}/${PN} has been created"
@@ -80,8 +78,4 @@ pkg_postinst() {
 	elog "Visit http://:8181 to configure Headphones"
 	elog "Default web username/password : headphones/secret"
 	elog
-}
-
-pkg_postrm() {
-	python_mod_cleanup /usr/share/${PN}
 }
