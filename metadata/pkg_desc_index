@@ -1,14 +1,6 @@
-app-misc/budgetwarrior 0.4 0.4.1 0.4.1.1 0.4.1.2 0.4.2 9999: budgetwarrior, a simple command line personal accounting utility
+app-misc/budgetwarrior 0.4 0.4.1.2 0.4.2: budgetwarrior, a simple command line personal accounting utility
 app-misc/tagsistant 0.7: tagsistant, a semantic filesystem
-app-misc/tmsu 9999: TMSU: Tagging file management system
-app-misc/vit 1.1 1.2 1.3: vit, a full screen terminal interface for Taskwarrior with Vi key bindings
-dev-go/fuse 9999: Native bindings for the FUSE kernel module for Go
-dev-go/sqlite3 9999: sqlite3 driver for Go
-dev-util/cxxtest 4.0.3 4.3 4.4: CxxTest is a JUnit/CppUnit/xUnit-like unit testing framework for C++
+app-misc/vit 1.1 1.2: vit, a full screen terminal interface for Taskwarrior with Vi key bindings
 dev-util/gcovr 3.2: Gcovr provides a utility for managing the use of the GNU gcov utility and generating summarized code coverage results
-dev-util/gws 0.1.4 0.1.5 0.1.7 9999: workspace manager
-mail-client/mutt-kz 1.5.22.1-r1: A fork of mutt, the small but very powerful text-based mail client
-media-libs/opencv 2.4.8-r1 2.4.9-r1 2.4.11-r1: A collection of algorithms and sample code for various computer vision problems
-net-nntp/headphones 9999: Automatic music downloader for SABnzbd
-sci-libs/mkl 11.2.0.090: Intel(R) Math Kernel Library: linear algebra, fft, math functions
-www-plugins/vivaldi-ffmpeg-codecs 54.0.2840.100 59.0.3071.104 60.0.3112.90: Additional proprietary codecs for Vivaldi web browser, stable release.
+dev-util/gws 0.1.4 0.1.5 0.1.7: workspace manager
+media-libs/opencv 2.4.9-r1 2.4.11-r1: A collection of algorithms and sample code for various computer vision problems
