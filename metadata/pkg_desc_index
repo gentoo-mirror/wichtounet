@@ -1,4 +1,4 @@
-app-misc/budgetwarrior 0.4 0.4.1.2 0.4.2 1.0: budgetwarrior, a simple command line personal accounting utility
+app-misc/budgetwarrior 0.4 0.4.1.2 0.4.2 1.0 1.0.1: budgetwarrior, a simple command line personal accounting utility
 app-misc/tagsistant 0.7: tagsistant, a semantic filesystem
 app-misc/vit 1.1 1.2: vit, a full screen terminal interface for Taskwarrior with Vi key bindings
 dev-util/gcovr 3.2: Gcovr provides a utility for managing the use of the GNU gcov utility and generating summarized code coverage results
