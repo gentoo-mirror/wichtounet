@@ -11,4 +11,4 @@ mail-client/mutt-kz 1.5.22.1-r1: A fork of mutt, the small but very powerful tex
 media-libs/opencv 2.4.8-r1 2.4.9-r1 2.4.11-r1: A collection of algorithms and sample code for various computer vision problems
 net-nntp/headphones 9999: Automatic music downloader for SABnzbd
 sci-libs/mkl 11.2.0.090: Intel(R) Math Kernel Library: linear algebra, fft, math functions
-www-plugins/vivaldi-ffmpeg-codecs 54.0.2840.100 59.0.3071.104 60.0.3112.90: Additional proprietary codecs for Vivaldi web browser, stable release.
+www-plugins/vivaldi-ffmpeg-codecs 84.0.4147.135: Additional proprietary codecs for Vivaldi web browser, stable release.

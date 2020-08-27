@@ -1,0 +1,11 @@
+DEFINED_PHASES=install unpack
+DEPEND=www-client/vivaldi app-arch/zstd
+DESCRIPTION=Additional proprietary codecs for Vivaldi web browser, stable release.
+EAPI=5
+HOMEPAGE=http://www.vivaldi.net
+KEYWORDS=~amd64
+LICENSE=LGPL2.1
+RDEPEND=www-client/vivaldi app-arch/zstd
+SLOT=0
+SRC_URI=http://repo.herecura.eu/herecura/x86_64/vivaldi-ffmpeg-codecs-84.0.4147.135-1-x86_64.pkg.tar.zst -> vivaldi-ffmpeg-codecs-84.0.4147.135.tar.zst
+_md5_=7cf729b9d02a05d30f7867434bf5ac40
