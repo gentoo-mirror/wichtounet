@@ -7,6 +7,5 @@ dev-go/sqlite3 9999: sqlite3 driver for Go
 dev-util/cxxtest 4.0.3 4.3 4.4: CxxTest is a JUnit/CppUnit/xUnit-like unit testing framework for C++
 dev-util/gcovr 3.2: Gcovr provides a utility for managing the use of the GNU gcov utility and generating summarized code coverage results
 dev-util/gws 0.1.4 0.1.5 0.1.7 9999: workspace manager
-mail-client/mutt-kz 1.5.22.1-r1: A fork of mutt, the small but very powerful text-based mail client
 sci-libs/mkl 11.2.0.090: Intel(R) Math Kernel Library: linear algebra, fft, math functions
 www-plugins/vivaldi-ffmpeg-codecs 84.0.4147.135: Additional proprietary codecs for Vivaldi web browser, stable release.
