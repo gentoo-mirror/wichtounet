@@ -1,4 +1,4 @@
-app-misc/budgetwarrior 1.0 1.0.1 9999: budgetwarrior, a simple command line personal accounting utility
+app-misc/budgetwarrior 1.0 1.0.1: budgetwarrior, a simple command line personal accounting utility
 app-misc/tmsu 9999: TMSU: Tagging file management system
 dev-go/fuse 9999: Native bindings for the FUSE kernel module for Go
 dev-go/sqlite3 9999: sqlite3 driver for Go
