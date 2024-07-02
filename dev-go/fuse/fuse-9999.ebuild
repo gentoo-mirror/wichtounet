@@ -7,8 +7,6 @@ EAPI=6
 DESCRIPTION="Native bindings for the FUSE kernel module for Go"
 HOMEPAGE="https://github.com/hanwen/go-fuse/"
 
-inherit eutils
-
 LICENSE="BSD"
 SLOT="0"
 KEYWORDS="~amd64"

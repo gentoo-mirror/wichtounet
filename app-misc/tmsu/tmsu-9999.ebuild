@@ -7,7 +7,7 @@ EAPI=6
 DESCRIPTION="TMSU: Tagging file management system"
 HOMEPAGE="http://tmsu.org/"
 
-inherit eutils git-r3
+inherit git-r3
 
 LICENSE="MIT"
 SLOT="0"

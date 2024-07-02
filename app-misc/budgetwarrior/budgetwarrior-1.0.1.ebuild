@@ -7,8 +7,6 @@ EAPI=6
 DESCRIPTION="budgetwarrior, a simple command line personal accounting utility"
 HOMEPAGE="http://www.github.com/wichtounet/budgetwarrior/"
 
-inherit eutils
-
 LICENSE="MIT"
 SLOT="0"
 KEYWORDS="amd64 x86"

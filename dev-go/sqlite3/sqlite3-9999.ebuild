@@ -7,8 +7,6 @@ EAPI=6
 DESCRIPTION="sqlite3 driver for Go"
 HOMEPAGE="https://github.com/mattn/go-sqlite3"
 
-inherit eutils
-
 LICENSE="MIT"
 SLOT="0"
 KEYWORDS="~amd64"
