@@ -1,0 +1,10 @@
+DEFINED_PHASES=install postinst setup unpack
+DEPEND=>=dev-lang/go-1.1.1
+DESCRIPTION=Native bindings for the FUSE kernel module for Go
+EAPI=6
+HOMEPAGE=https://github.com/hanwen/go-fuse/
+KEYWORDS=~amd64
+LICENSE=BSD
+RDEPEND=>=dev-lang/go-1.1.1
+SLOT=0
+_md5_=62f062a1495c6cd8aa32ac8668d88964

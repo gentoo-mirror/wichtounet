@@ -1,0 +1,10 @@
+DEFINED_PHASES=install postinst setup unpack
+DEPEND=>=dev-lang/go-1.1.1
+DESCRIPTION=sqlite3 driver for Go
+EAPI=6
+HOMEPAGE=https://github.com/mattn/go-sqlite3
+KEYWORDS=~amd64
+LICENSE=MIT
+RDEPEND=>=dev-lang/go-1.1.1
+SLOT=0
+_md5_=96253779b2f1ae3d998a3ddd39938a77
